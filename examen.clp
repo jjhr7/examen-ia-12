@@ -6,7 +6,8 @@
     (palet 10)
     (palet 10)
     (linea_pedido 0)
-    (robot_carga 0)
+    (robot_carga 0 0 0 0)
+    (pedido 3 1 4 5)
 
 
 )
